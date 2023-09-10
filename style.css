@@ -1,0 +1,111 @@
+.talk{
+    color:
+    #F54748;
+}
+.navbar-nav li{
+    align-items: end;
+}
+.navbar-brand{
+    padding-right: 800px;
+}
+.btn{
+   
+    margin-left: 20px;
+    margin-top: 50px;
+    border: 3px solid #E0E0E0;
+    background-color: rgb(255, 209, 227);
+
+}
+.dialoge{
+    font-weight: 700;
+    font-size: 52px;
+    width: 35%;
+    margin-left: 110px;
+}
+.generate{
+    width: 28%;
+    margin-left: 110px;
+}
+
+.order{
+    margin-left: 100px;
+    position: relative;bottom: 70px;
+}
+.img1{
+    width: 1000px;
+    display: inline-block;
+    width: 59%;
+    margin-right: -80px;
+}
+.main{
+    display: inline-block;
+    width: 190%;
+    margin-left: -20px;
+}
+.one{
+    font-weight: 700;
+    font-size: 40px;
+    align-items: center;
+    line-height: 44px;
+}
+
+footer{
+    background-color: #FEF5F5;
+    ;
+}
+.started{display: inline-block;
+
+}
+.mic{
+    display: inline-block;
+}
+.mic1{
+    text-align: center;
+}
+.card1Img1 {
+    position: absolute;
+    top: 67px;
+    width: 40%;
+    left: 35%;
+  }
+  .card1Img2 {
+    position: absolute;
+    top: 94px;
+    left: 24%;
+    width: 60%;
+  }
+  .card3Img1 {
+    width: 62%;
+    left: 18%;
+    top: 29%;
+    position: absolute;
+  }
+  .card2Img1 {
+    position: absolute;
+    top: 84px;
+    z-index: 1;
+    width: 27%;
+    left: 25%;
+  }
+  .card2Img2 {
+    top: 59px;
+    width: 20%;
+    position: absolute;
+    left: 50%;
+  }
+  .talk1{
+    color: #d10b0b;
+    font-size: 50px;
+    font-weight: bolder;
+
+  }
+  .carton{
+    display: inline-block;
+    position: relative;left: 80px;
+    z-index: -1;
+
+  }
+  .here{
+    display: inline-block;
+    
+  }
